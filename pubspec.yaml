@@ -1,6 +1,6 @@
 name: structure_logs_sink_seq
 description: Sink Seq Log
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Altamir/structure_logs_sink_seq
 
 environment:

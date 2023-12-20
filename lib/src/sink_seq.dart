@@ -47,6 +47,7 @@ class SinkSeq extends LogSink {
       '@t': timestamp,
       '@mt': messageTemplate,
       '@l': level,
+      "DeviceIdentifier": deviceIdentifier ?? "",
       ...properties,
     };
   }

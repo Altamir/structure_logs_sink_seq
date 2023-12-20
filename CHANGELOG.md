@@ -1,3 +1,7 @@
+## 0.0.2
+
+* Fix use deviceIdentifier.
+
 ## 0.0.1
 
 * Initial release of the `structure_logs_sink_seq` package.
